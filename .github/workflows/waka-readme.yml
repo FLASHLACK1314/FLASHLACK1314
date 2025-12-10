@@ -1,4 +1,4 @@
-name: WakaTime Dev Metrics # 全新的工作流名称
+name: WakaTime Dev Metrics
 
 on:
   schedule:
@@ -6,16 +6,15 @@ on:
   workflow_dispatch:         # 手动触发也可以
 
 jobs:
-  update-readme-stats: # 全新的 Job 名称
+  update-readme-stats:
     runs-on: ubuntu-latest
-    
-    # 🌟 关键：因为 Secret 已经挪到仓库级，所以这里不需要 environment 字段了！
-    
-    # 🌟 权限配置：必须保留！用于解决 403 错误（假设你已经修正了 PAT 权限）
+
+    # Secret已在仓库级设置，因此不再需要 environment 字段
+
     permissions:
       contents: write    # 允许提交更新后的 README 文件
       traffic: read      # 允许读取仓库的流量（views/traffic）数据
-      
+
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
@@ -26,7 +25,7 @@ jobs:
           # 引用仓库级 Secret
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          
+
           # 以下是你原有的配置
           SECTION_NAME: waka
           SHOW_OS: true
