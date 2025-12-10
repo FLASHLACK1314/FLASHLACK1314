@@ -11,6 +11,10 @@ jobs:
   update-readme-stats:
     runs-on: ubuntu-latest
     
+    # 🌟 新增：设置时区环境变量为北京时间
+    env:
+      TZ: Asia/Shanghai
+      
     permissions:
       contents: write
       
@@ -38,12 +42,12 @@ jobs:
           SHOW_LOC_CHART: true
           SHOW_DAYS_OF_WEEK: true
           SHOW_PROFILE_VIEWS: true
-          SHOW_SHORT_INFO: false # 帮你保留了关闭短信息，避免显示私人仓库和存储空间
+          SHOW_SHORT_INFO: false 
           SHOW_UPDATED_DATE: true
           SHOW_TOTAL_CODE_TIME: true
           COMMIT_BY_ME: false
           COMMIT_MESSAGE: Updated with Dev Metrics
           COMMIT_SINGLE: false
-          LOCALE: zh # 中文代码：zh
+          LOCALE: zh
           UPDATED_DATE_FORMAT: '%d/%m/%Y %H:%M:%S'
           SYMBOL_VERSION: 1
