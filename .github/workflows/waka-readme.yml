@@ -14,10 +14,8 @@ jobs:
     environment: WakaTime自动更新
     # 🌟 关键修正：添加 Job 权限配置
     permissions:
-      contents: write  # 允许写入（用于提交更新后的 README 文件）
-      pages: read      # 通常用于读取页面信息，但关键是下面的
-      traffic: read    # 👈 这个是必须的！允许读取仓库的流量（views/traffic）数据
-
+      contents: write
+      traffic: read
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
