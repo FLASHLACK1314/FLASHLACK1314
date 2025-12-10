@@ -2,12 +2,16 @@ name: Update WakaTime Stats
 
 on:
   schedule:
-    - cron: '0 0 * * *'  # 每天 00:00 自动更新
-  workflow_dispatch:      # 手动触发也可以
+    - cron: '0 0 * * *'    # 每天 00:00 自动更新
+  workflow_dispatch:       # 手动触发也可以
 
 jobs:
   update-waka-stats:
     runs-on: ubuntu-latest
+    
+    # 🌟 关键修改：加上 environment 字段，指定 Secret 所在的环境
+    # 只有指定了这个环境，Job 才能访问到环境 Secrets (GH_TOKEN 和 WAKATIME_API_KEY)
+    environment: WakaTime自动更新
 
     steps:
       - name: Checkout repository
