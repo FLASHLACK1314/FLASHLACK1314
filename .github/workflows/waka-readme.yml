@@ -1,14 +1,22 @@
 name: WakaTime Dev Metrics
 
 on:
+  # 🌟 新增：只要你推送代码，就强制运行一次（用于测试和激活）
+  push:
+    branches:
+      - master
+      - main
+  # 每天凌晨自动运行
   schedule:
     - cron: '0 0 * * *'
+  # 手动触发开关
   workflow_dispatch:
 
 jobs:
   update-readme-stats:
     runs-on: ubuntu-latest
     
+    # 权限配置
     permissions:
       contents: write
       traffic: read
@@ -20,9 +28,11 @@ jobs:
       - name: Run WakaTime Stats Action
         uses: anmol098/waka-readme-stats@master
         with:
+          # Secret 引用
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           
+          # 你的参数配置
           SECTION_NAME: waka
           SHOW_OS: true
           SHOW_PROJECTS: true
