@@ -1,7 +1,7 @@
 name: WakaTime Dev Metrics
 
 on:
-  # 🌟 新增：只要你推送代码，就强制运行一次（用于测试和激活）
+  # 只要推送代码，就强制运行一次（用于测试和激活）
   push:
     branches:
       - master
@@ -16,10 +16,9 @@ jobs:
   update-readme-stats:
     runs-on: ubuntu-latest
     
-    # 权限配置
+    # 🌟 修正：只保留合法的 contents 权限
     permissions:
       contents: write
-      traffic: read
       
     steps:
       - name: Checkout repository
