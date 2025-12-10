@@ -1,24 +1,23 @@
-name: WakaTime Stats
+name: Update WakaTime Stats
 
 on:
   schedule:
-    - cron: '0 0 * * *' # 每天运行
-  push:
-    branches:
-      - main
-  workflow_dispatch: # 手动触发
+    - cron: '0 0 * * *'  # 每天 00:00 自动更新
+  workflow_dispatch:      # 手动触发也可以
 
 jobs:
-  update-wakatime:
+  update-waka-stats:
     runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v3
 
-      - name: Update WakaTime Stats
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Run WakaTime Stats
         uses: anmol098/waka-readme-stats@master
         with:
-          wakatime_api_key: ${{ secrets.WAKATIME_API_KEY }}
-          gh_token: ${{ secrets.GH_TOKEN }}      # ← 必须这样传
+          waka_time_api_key: ${{ secrets.WAKATIME_API_KEY }}
+          gh_token: ${{ secrets.GH_TOKEN }}
           section_name: waka
           show_os: true
           show_projects: true
@@ -35,8 +34,8 @@ jobs:
           show_updated_date: true
           show_total_code_time: true
           commit_by_me: false
-          commit_message: "Updated with Dev Metrics"
+          commit_message: Updated with Dev Metrics
           commit_single: false
           locale: en
-          updated_date_format: "%d/%m/%Y %H:%M:%S"
+          updated_date_format: '%d/%m/%Y %H:%M:%S'
           symbol_version: 1
