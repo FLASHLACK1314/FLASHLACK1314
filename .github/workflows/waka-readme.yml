@@ -1,19 +1,16 @@
 name: WakaTime Dev Metrics
 
 on:
-  # 每天凌晨自动运行（一天一次）
   schedule:
     - cron: '0 0 * * *'
-  # 手动触发开关
   workflow_dispatch:
 
 jobs:
   update-readme-stats:
     runs-on: ubuntu-latest
     
-    # 🌟 新增：设置时区环境变量为北京时间
     env:
-      TZ: Asia/Shanghai
+      TZ: Asia/Shanghai # 确保 Runner 系统时间为北京时间
       
     permissions:
       contents: write
@@ -29,28 +26,31 @@ jobs:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           
           SECTION_NAME: waka
-          # 🔒 隐私保护：关掉项目名称和时间轨迹
-          SHOW_PROJECTS: false          # 隐藏具体项目名
-          SHOW_TIMEZONE: false          # 隐藏时区（Asia/Shanghai）
-          SHOW_DAYS_OF_WEEK: false      # 隐藏星期几活跃统计
-          SHOW_OS: false                # 隐藏操作系统（可选，想更保密就关掉）
-          SHOW_EDITORS: true            # 显示编辑器（比如 IntelliJ）通常没关系
+          # 🔒 隐私与范围设置
+          SHOW_PROJECTS: false
+          SHOW_TIMEZONE: false
+          SHOW_DAYS_OF_WEEK: false
+          SHOW_OS: false
+          SHOW_EDITORS: true
           
-          # 🚀 战果展示：开启代码行数统计
-          SHOW_LINES_OF_CODE: true      # 重点！开启这个显示总行数
-          SHOW_LOC_CHART: true          # 开启行数增长图表，看起来超帅！
-          
+          # 🚀 数据展示设置
+          SHOW_LINES_OF_CODE: true
+          SHOW_LOC_CHART: true
           SHOW_COMMIT: true
           SHOW_LANGUAGE: true
-          SHOW_LANGUAGE_PER_REPO: false # 建议关闭，防止通过仓库关联出项目信息
+          SHOW_LANGUAGE_PER_REPO: false
           SHOW_PROFILE_VIEWS: true
-          SHOW_SHORT_INFO: false 
+          
+          # 💡 这里建议设为 true，它会显示“Last 7 days”字样和具体日期范围
+          SHOW_SHORT_INFO: true
+          
           SHOW_UPDATED_DATE: true
           SHOW_TOTAL_CODE_TIME: true
           
-          COMMIT_BY_ME: false
+          # 🎨 格式化设置
           COMMIT_MESSAGE: "Updated with Dev Metrics 🎮"
-          COMMIT_SINGLE: false
           LOCALE: zh
+          # 这样写配合 TZ 环境变量，输出的就是纯正的北京时间啦！
           UPDATED_DATE_FORMAT: '%Y/%m/%d %H:%M:%S'
+          UPDATED_DATE_TEXT: "最后更新于"
           SYMBOL_VERSION: 1
