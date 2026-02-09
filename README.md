@@ -1,7 +1,7 @@
 # Hi there! I'm FLASHLACK 👋
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-465%20hrs%2014%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-464%20hrs%2049%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/%E8%B5%84%E6%96%99%E9%A1%B5%E6%B5%8F%E8%A7%88%E6%AC%A1%E6%95%B0-0-blue?style=flat)
 
@@ -21,16 +21,16 @@
 
 ```text
 💬 编程语言: 
-Java                     2 hrs 19 mins       ████████████░░░░░░░░░░░░░   48.46 % 
-Markdown                 1 hr 36 mins        ████████░░░░░░░░░░░░░░░░░   33.33 % 
-Vue.js                   27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.52 % 
-SQL                      7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.57 % 
-JSON                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.34 % 
+Java                     2 hrs 35 mins       ████████████░░░░░░░░░░░░░   49.81 % 
+Markdown                 1 hr 36 mins        ████████░░░░░░░░░░░░░░░░░   30.76 % 
+Vue.js                   27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.78 % 
+JSON                     12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.87 % 
+SQL                      7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.37 % 
 
 🔥 编辑器: 
-IntelliJ IDEA            3 hrs 12 mins       █████████████████░░░░░░░░   66.62 % 
-WebStorm                 53 mins             █████░░░░░░░░░░░░░░░░░░░░   18.60 % 
-VS Code                  42 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.78 % 
+IntelliJ IDEA            3 hrs 28 mins       █████████████████░░░░░░░░   66.56 % 
+WebStorm                 53 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.17 % 
+VS Code                  50 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.28 % 
 ```
 
 **时间线**
@@ -38,5 +38,5 @@ VS Code                  42 mins             ████░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/FLASHLACK1314/FLASHLACK1314/main/assets/bar_graph.png)
 
 
- Last Updated on 2026/02/08 09:53:16 (GMT+8) UTC
+ Last Updated on 2026/02/09 09:22:48 (GMT+8) UTC
 <!--END_SECTION:waka-->
