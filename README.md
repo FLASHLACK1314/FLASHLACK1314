@@ -5,15 +5,15 @@
 
 ![Profile Views](http://img.shields.io/badge/%E8%B5%84%E6%96%99%E9%A1%B5%E6%B5%8F%E8%A7%88%E6%AC%A1%E6%95%B0-0-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/%E4%BB%8E%E3%80%8CHello%20World%E3%80%8D%E8%B5%B7%E6%88%91%E5%B7%B2%E7%BB%8F%E5%86%99%E4%BA%86-109.56%20thousand%20%E8%A1%8C%E4%BB%A3%E7%A0%81-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/%E4%BB%8E%E3%80%8CHello%20World%E3%80%8D%E8%B5%B7%E6%88%91%E5%B7%B2%E7%BB%8F%E5%86%99%E4%BA%86-110.91%20thousand%20%E8%A1%8C%E4%BB%A3%E7%A0%81-blue?style=flat)
 
 **我是早鸟 🐤** 
 
 ```text
-🌞 早晨                     38 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.92 % 
-🌆 白天                     176 commits         █████████████░░░░░░░░░░░░   50.57 % 
-🌃 傍晚                     109 commits         ████████░░░░░░░░░░░░░░░░░   31.32 % 
-🌙 晚上                     25 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.18 % 
+🌞 早晨                     38 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.76 % 
+🌆 白天                     176 commits         ████████████░░░░░░░░░░░░░   49.86 % 
+🌃 傍晚                     111 commits         ████████░░░░░░░░░░░░░░░░░   31.44 % 
+🌙 晚上                     28 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.93 % 
 ```
 
 
@@ -21,15 +21,15 @@
 
 ```text
 💬 编程语言: 
-Markdown                 28 mins             █████████████░░░░░░░░░░░░   51.07 % 
-Java                     11 mins             █████░░░░░░░░░░░░░░░░░░░░   20.76 % 
-SQL                      7 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.06 % 
-Python                   3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.97 % 
-GitIgnore file           3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.46 % 
+Markdown                 26 mins             █████████░░░░░░░░░░░░░░░░   35.22 % 
+SQL                      24 mins             ████████░░░░░░░░░░░░░░░░░   32.51 % 
+Java                     16 mins             ██████░░░░░░░░░░░░░░░░░░░   22.47 % 
+Python                   3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.07 % 
+GitIgnore file           3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.70 % 
 
 🔥 编辑器: 
-IntelliJ IDEA            50 mins             ███████████████████████░░   91.80 % 
-VS Code                  4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.20 % 
+IntelliJ IDEA            1 hr 11 mins        ████████████████████████░   94.93 % 
+VS Code                  3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.07 % 
 ```
 
 **时间线**
@@ -37,5 +37,5 @@ VS Code                  4 mins              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/FLASHLACK1314/FLASHLACK1314/main/assets/bar_graph.png)
 
 
- Last Updated on 2026/02/21 09:15:49 (GMT+8) UTC
+ Last Updated on 2026/02/22 09:21:56 (GMT+8) UTC
 <!--END_SECTION:waka-->
