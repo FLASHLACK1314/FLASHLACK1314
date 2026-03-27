@@ -1,7 +1,7 @@
 # Hi there! I'm FLASHLACK 👋
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-503%20hrs%2016%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-505%20hrs%2018%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/%E8%B5%84%E6%96%99%E9%A1%B5%E6%B5%8F%E8%A7%88%E6%AC%A1%E6%95%B0-1-blue?style=flat)
 
@@ -21,15 +21,15 @@
 
 ```text
 💬 编程语言: 
-Markdown                 3 hrs 55 mins       ████████░░░░░░░░░░░░░░░░░   31.46 % 
-Java                     3 hrs 5 mins        ██████░░░░░░░░░░░░░░░░░░░   24.77 % 
-YAML                     1 hr 52 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.04 % 
-JSON                     1 hr 33 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.47 % 
-TypeScript               55 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.37 % 
+Markdown                 3 hrs 4 mins        █████████░░░░░░░░░░░░░░░░   35.46 % 
+Java                     1 hr 53 mins        █████░░░░░░░░░░░░░░░░░░░░   21.71 % 
+YAML                     1 hr 36 mins        █████░░░░░░░░░░░░░░░░░░░░   18.45 % 
+JSON                     1 hr 31 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.61 % 
+Git Config               15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.90 % 
 
 🔥 编辑器: 
-IntelliJ IDEA            6 hrs 32 mins       █████████████░░░░░░░░░░░░   52.45 % 
-VS Code                  5 hrs 56 mins       ████████████░░░░░░░░░░░░░   47.55 % 
+IntelliJ IDEA            5 hrs 36 mins       ████████████████░░░░░░░░░   64.50 % 
+VS Code                  3 hrs 4 mins        █████████░░░░░░░░░░░░░░░░   35.50 % 
 ```
 
 **时间线**
@@ -37,5 +37,5 @@ VS Code                  5 hrs 56 mins       ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/FLASHLACK1314/FLASHLACK1314/main/assets/bar_graph.png)
 
 
- Last Updated on 2026/03/26 09:28:31 (GMT+8) UTC
+ Last Updated on 2026/03/27 09:28:18 (GMT+8) UTC
 <!--END_SECTION:waka-->
