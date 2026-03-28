@@ -21,15 +21,16 @@
 
 ```text
 💬 编程语言: 
-Markdown                 3 hrs 4 mins        █████████░░░░░░░░░░░░░░░░   35.46 % 
-Java                     1 hr 53 mins        █████░░░░░░░░░░░░░░░░░░░░   21.71 % 
-YAML                     1 hr 36 mins        █████░░░░░░░░░░░░░░░░░░░░   18.45 % 
-JSON                     1 hr 31 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.61 % 
-Git Config               15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.90 % 
+Markdown                 3 hrs 4 mins        █████████░░░░░░░░░░░░░░░░   34.42 % 
+Java                     1 hr 57 mins        █████░░░░░░░░░░░░░░░░░░░░   21.96 % 
+YAML                     1 hr 46 mins        █████░░░░░░░░░░░░░░░░░░░░   19.77 % 
+JSON                     1 hr 32 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.28 % 
+Git Config               15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.81 % 
 
 🔥 编辑器: 
-IntelliJ IDEA            5 hrs 36 mins       ████████████████░░░░░░░░░   64.50 % 
-VS Code                  3 hrs 4 mins        █████████░░░░░░░░░░░░░░░░   35.50 % 
+IntelliJ IDEA            5 hrs 50 mins       ████████████████░░░░░░░░░   65.35 % 
+VS Code                  3 hrs 4 mins        █████████░░░░░░░░░░░░░░░░   34.46 % 
+Unknown Editor           1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
 ```
 
 **时间线**
@@ -37,5 +38,5 @@ VS Code                  3 hrs 4 mins        █████████░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/FLASHLACK1314/FLASHLACK1314/main/assets/bar_graph.png)
 
 
- Last Updated on 2026/03/27 09:28:18 (GMT+8) UTC
+ Last Updated on 2026/03/28 09:22:22 (GMT+8) UTC
 <!--END_SECTION:waka-->
