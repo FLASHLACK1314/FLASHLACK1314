@@ -21,15 +21,14 @@
 
 ```text
 💬 编程语言: 
-YAML                     1 hr 20 mins        █████████████░░░░░░░░░░░░   50.48 % 
-Java                     54 mins             █████████░░░░░░░░░░░░░░░░   34.03 % 
-JSON                     9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.11 % 
-TypeScript               6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.05 % 
-SQL                      5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.40 % 
+YAML                     1 hr 14 mins        █████████████░░░░░░░░░░░░   52.20 % 
+Java                     52 mins             █████████░░░░░░░░░░░░░░░░   36.63 % 
+JSON                     8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.16 % 
+SQL                      5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.67 % 
+Markdown                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.05 % 
 
 🔥 编辑器: 
-IntelliJ IDEA            2 hrs 27 mins       ███████████████████████░░   92.26 % 
-Unknown Editor           12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.74 % 
+IntelliJ IDEA            2 hrs 21 mins       █████████████████████████   100.00 % 
 ```
 
 **时间线**
@@ -37,5 +36,5 @@ Unknown Editor           12 mins             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/FLASHLACK1314/FLASHLACK1314/main/assets/bar_graph.png)
 
 
- Last Updated on 2026/04/03 09:28:27 (GMT+8) UTC
+ Last Updated on 2026/04/04 09:23:01 (GMT+8) UTC
 <!--END_SECTION:waka-->
