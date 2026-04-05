@@ -21,14 +21,14 @@
 
 ```text
 💬 编程语言: 
-YAML                     1 hr 14 mins        █████████████░░░░░░░░░░░░   52.20 % 
-Java                     52 mins             █████████░░░░░░░░░░░░░░░░   36.63 % 
-JSON                     8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.16 % 
-SQL                      5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.67 % 
-Markdown                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.05 % 
+YAML                     58 mins             █████████████░░░░░░░░░░░░   52.32 % 
+Java                     41 mins             █████████░░░░░░░░░░░░░░░░   36.68 % 
+JSON                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.41 % 
+SQL                      4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.34 % 
+Markdown                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.24 % 
 
 🔥 编辑器: 
-IntelliJ IDEA            2 hrs 21 mins       █████████████████████████   100.00 % 
+IntelliJ IDEA            1 hr 52 mins        █████████████████████████   100.00 % 
 ```
 
 **时间线**
@@ -36,5 +36,5 @@ IntelliJ IDEA            2 hrs 21 mins       ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/FLASHLACK1314/FLASHLACK1314/main/assets/bar_graph.png)
 
 
- Last Updated on 2026/04/04 09:23:01 (GMT+8) UTC
+ Last Updated on 2026/04/05 09:45:38 (GMT+8) UTC
 <!--END_SECTION:waka-->
