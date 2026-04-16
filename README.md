@@ -21,14 +21,10 @@
 
 ```text
 💬 编程语言: 
-YAML                     21 mins             ██████████░░░░░░░░░░░░░░░   39.95 % 
-Java                     18 mins             ████████░░░░░░░░░░░░░░░░░   33.78 % 
-TypeScript               7 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.85 % 
-Markdown                 4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 % 
-Other                    1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.42 % 
+本周没有记录到任何活动
 
 🔥 编辑器: 
-IntelliJ IDEA            53 mins             █████████████████████████   100.00 % 
+本周没有记录到任何活动
 ```
 
 **时间线**
@@ -36,5 +32,5 @@ IntelliJ IDEA            53 mins             ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/FLASHLACK1314/FLASHLACK1314/main/assets/bar_graph.png)
 
 
- Last Updated on 2026/04/15 09:46:24 (GMT+8) UTC
+ Last Updated on 2026/04/16 09:54:49 (GMT+8) UTC
 <!--END_SECTION:waka-->
