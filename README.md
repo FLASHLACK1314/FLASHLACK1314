@@ -21,16 +21,16 @@
 
 ```text
 💬 编程语言: 
-Markdown                 1 hr                ███████████░░░░░░░░░░░░░░   45.92 % 
-TypeScript               35 mins             ███████░░░░░░░░░░░░░░░░░░   27.12 % 
-Java                     23 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.58 % 
-YAML                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.15 % 
-JSON                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.40 % 
+Markdown                 59 mins             ███████████░░░░░░░░░░░░░░   45.80 % 
+TypeScript               35 mins             ███████░░░░░░░░░░░░░░░░░░   27.26 % 
+Java                     23 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.66 % 
+YAML                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.18 % 
+JSON                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.41 % 
 
 🔥 编辑器: 
-Obsidian                 59 mins             ███████████░░░░░░░░░░░░░░   45.53 % 
-Unknown Editor           43 mins             ████████░░░░░░░░░░░░░░░░░   33.18 % 
-IntelliJ IDEA            27 mins             █████░░░░░░░░░░░░░░░░░░░░   21.29 % 
+Obsidian                 59 mins             ███████████░░░░░░░░░░░░░░   45.25 % 
+Unknown Editor           43 mins             ████████░░░░░░░░░░░░░░░░░   33.35 % 
+IntelliJ IDEA            27 mins             █████░░░░░░░░░░░░░░░░░░░░   21.39 % 
 ```
 
 **时间线**
@@ -38,5 +38,5 @@ IntelliJ IDEA            27 mins             █████░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/FLASHLACK1314/FLASHLACK1314/main/assets/bar_graph.png)
 
 
- Last Updated on 2026/04/26 09:57:26 (GMT+8) UTC
+ Last Updated on 2026/04/27 10:00:40 (GMT+8) UTC
 <!--END_SECTION:waka-->
