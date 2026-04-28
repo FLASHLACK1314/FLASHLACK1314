@@ -34,7 +34,7 @@ jobs:
           SHOW_COMMIT: true
           SHOW_LANGUAGE: true
           SHOW_LANGUAGE_PER_REPO: false # 建议关闭，防止通过仓库关联出项目信息
-          SHOW_PROFILE_VIEWS: true
+          SHOW_PROFILE_VIEWS: false
           SHOW_SHORT_INFO: false
           SHOW_UPDATED_DATE: true
           SHOW_TOTAL_CODE_TIME: true
