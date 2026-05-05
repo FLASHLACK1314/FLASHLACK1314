@@ -1,7 +1,7 @@
 # Hi there! I'm FLASHLACK 👋
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-515%20hrs%2011%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-517%20hrs%2018%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/%E4%BB%8E%E3%80%8CHello%20World%E3%80%8D%E8%B5%B7%E6%88%91%E5%B7%B2%E7%BB%8F%E5%86%99%E4%BA%86-402.54%20thousand%20%E8%A1%8C%E4%BB%A3%E7%A0%81-blue?style=flat)
 
@@ -19,17 +19,17 @@
 
 ```text
 💬 编程语言: 
-Markdown                 2 hrs 42 mins       ███████████░░░░░░░░░░░░░░   43.17 % 
-HTML                     1 hr 4 mins         ████░░░░░░░░░░░░░░░░░░░░░   17.25 % 
-Other                    36 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.83 % 
+Markdown                 2 hrs 14 mins       █████████░░░░░░░░░░░░░░░░   35.70 % 
+TypeScript               1 hr 9 mins         █████░░░░░░░░░░░░░░░░░░░░   18.53 % 
+HTML                     1 hr 4 mins         ████░░░░░░░░░░░░░░░░░░░░░   17.26 % 
+Other                    36 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.82 % 
 Java                     27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.37 % 
-YAML                     27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.27 % 
 
 🔥 编辑器: 
-Obsidian                 2 hrs 11 mins       █████████░░░░░░░░░░░░░░░░   35.06 % 
-Unknown Editor           2 hrs 5 mins        ████████░░░░░░░░░░░░░░░░░   33.48 % 
-VS Code                  1 hr 39 mins        ███████░░░░░░░░░░░░░░░░░░   26.38 % 
-IntelliJ IDEA            19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.08 % 
+Unknown Editor           2 hrs 17 mins       █████████░░░░░░░░░░░░░░░░   36.67 % 
+Obsidian                 2 hrs 7 mins        ████████░░░░░░░░░░░░░░░░░   33.85 % 
+VS Code                  1 hr 31 mins        ██████░░░░░░░░░░░░░░░░░░░   24.28 % 
+IntelliJ IDEA            19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.20 % 
 ```
 
 **时间线**
@@ -37,5 +37,5 @@ IntelliJ IDEA            19 mins             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/FLASHLACK1314/FLASHLACK1314/main/assets/bar_graph.png)
 
 
- Last Updated on 2026/05/04 10:04:11 (GMT+8) UTC
+ Last Updated on 2026/05/05 10:03:57 (GMT+8) UTC
 <!--END_SECTION:waka-->
