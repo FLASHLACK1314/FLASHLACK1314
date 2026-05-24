@@ -1,8 +1,6 @@
 # Hi there! I'm FLASHLACK 👋
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-543%20hrs%2040%20mins-blue?style=flat)
-
 ![Lines of code](https://img.shields.io/badge/%E4%BB%8E%E3%80%8CHello%20World%E3%80%8D%E8%B5%B7%E6%88%91%E5%B7%B2%E7%BB%8F%E5%86%99%E4%BA%86-446.65%20thousand%20%E8%A1%8C%E4%BB%A3%E7%A0%81-blue?style=flat)
 
 **我是早鸟 🐤** 
@@ -19,15 +17,15 @@
 
 ```text
 💬 编程语言: 
-Markdown                 44 mins             ███████░░░░░░░░░░░░░░░░░░   28.94 % 
-Python                   40 mins             ██████░░░░░░░░░░░░░░░░░░░   25.95 % 
-Batchfile                15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.97 % 
-HTML                     11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.49 % 
-SQL                      10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.48 % 
+Python                   40 mins             ████████░░░░░░░░░░░░░░░░░   33.76 % 
+Markdown                 39 mins             ████████░░░░░░░░░░░░░░░░░   32.89 % 
+Batchfile                15 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.98 % 
+SQL                      10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.43 % 
+Git Config               2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.44 % 
 
 🔥 编辑器: 
-VS Code                  1 hr 55 mins        ███████████████████░░░░░░   74.57 % 
-Claude Code              39 mins             ██████░░░░░░░░░░░░░░░░░░░   25.43 % 
+VS Code                  1 hr 51 mins        ███████████████████████░░   93.97 % 
+Claude Code              7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.03 % 
 ```
 
 **时间线**
@@ -35,5 +33,5 @@ Claude Code              39 mins             ██████░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/FLASHLACK1314/FLASHLACK1314/main/assets/bar_graph.png)
 
 
- Last Updated on 2026/05/23 10:12:31 (GMT+8) UTC
+ Last Updated on 2026/05/24 10:31:07 (GMT+8) UTC
 <!--END_SECTION:waka-->
