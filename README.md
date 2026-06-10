@@ -17,17 +17,16 @@
 
 ```text
 💬 编程语言: 
-C                        13 hrs 53 mins      █████████████████░░░░░░░░   68.75 % 
-Python                   3 hrs 55 mins       █████░░░░░░░░░░░░░░░░░░░░   19.42 % 
-Other                    1 hr 1 min          █░░░░░░░░░░░░░░░░░░░░░░░░   05.10 % 
-Markdown                 56 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.69 % 
-JSON                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
+C                        11 hrs 20 mins      ████████████████░░░░░░░░░   63.89 % 
+Python                   3 hrs 45 mins       █████░░░░░░░░░░░░░░░░░░░░   21.19 % 
+Other                    58 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.50 % 
+Markdown                 38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 % 
+TypeScript               34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.21 % 
 
 🔥 编辑器: 
-VS Code                  20 hrs 8 mins       █████████████████████████   99.72 % 
-Claude Code              1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
-IntelliJ IDEA            1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
-Obsidian                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+VS Code                  17 hrs 34 mins      █████████████████████████   99.02 % 
+Claude Code              9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.86 % 
+IntelliJ IDEA            1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
 ```
 
 **时间线**
@@ -35,5 +34,5 @@ Obsidian                 0 secs              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/FLASHLACK1314/FLASHLACK1314/main/assets/bar_graph.png)
 
 
- Last Updated on 2026/06/09 10:14:40 (GMT+8) UTC
+ Last Updated on 2026/06/10 10:38:12 (GMT+8) UTC
 <!--END_SECTION:waka-->
