@@ -19,14 +19,12 @@
 
 ```text
 💬 编程语言: 
-Python                   2 hrs 26 mins       ████████████░░░░░░░░░░░░░   46.24 % 
-TypeScript               2 hrs 6 mins        ██████████░░░░░░░░░░░░░░░   39.72 % 
-JSON                     21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.84 % 
-Other                    12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.94 % 
-C                        8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.68 % 
+Python                   2 hrs 5 mins        ███████████████████████░░   93.08 % 
+C                        8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.31 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 % 
 
 🔥 编辑器: 
-VS Code                  5 hrs 17 mins       █████████████████████████   100.00 % 
+VS Code                  2 hrs 14 mins       █████████████████████████   100.00 % 
 ```
 
 **时间线**
@@ -34,5 +32,5 @@ VS Code                  5 hrs 17 mins       ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/FLASHLACK1314/FLASHLACK1314/main/assets/bar_graph.png)
 
 
- Last Updated on 2026/06/17 10:51:47 (GMT+8) UTC
+ Last Updated on 2026/06/18 10:46:44 (GMT+8) UTC
 <!--END_SECTION:waka-->
