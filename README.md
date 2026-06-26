@@ -19,15 +19,15 @@
 
 ```text
 💬 编程语言: 
-TypeScript               3 hrs 4 mins        ████████████████░░░░░░░░░   64.40 % 
-Markdown                 52 mins             █████░░░░░░░░░░░░░░░░░░░░   18.40 % 
-Other                    24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.65 % 
-Roff                     23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.34 % 
-CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
+TypeScript               3 hrs 4 mins        ████████████████░░░░░░░░░   62.14 % 
+Markdown                 1 hr 3 mins         █████░░░░░░░░░░░░░░░░░░░░   21.26 % 
+Other                    24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.34 % 
+Roff                     23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.05 % 
+CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
 
 🔥 编辑器: 
-VS Code                  4 hrs 42 mins       █████████████████████████   98.27 % 
-Obsidian                 4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.73 % 
+VS Code                  4 hrs 52 mins       █████████████████████████   98.33 % 
+Obsidian                 4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.67 % 
 ```
 
 **时间线**
@@ -35,5 +35,5 @@ Obsidian                 4 mins              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/FLASHLACK1314/FLASHLACK1314/main/assets/bar_graph.png)
 
 
- Last Updated on 2026/06/25 10:32:36 (GMT+8) UTC
+ Last Updated on 2026/06/26 10:35:24 (GMT+8) UTC
 <!--END_SECTION:waka-->
