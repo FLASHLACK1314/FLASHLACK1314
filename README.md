@@ -19,11 +19,10 @@
 
 ```text
 💬 编程语言: 
-Markdown                 10 mins             ████████████████████████░   96.16 % 
-Other                    0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.84 % 
+Other                    2 mins              █████████████████████████   100.00 % 
 
 🔥 编辑器: 
-VS Code                  10 mins             █████████████████████████   100.00 % 
+VS Code                  2 mins              █████████████████████████   100.00 % 
 ```
 
 **时间线**
@@ -31,5 +30,5 @@ VS Code                  10 mins             ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/FLASHLACK1314/FLASHLACK1314/main/assets/bar_graph.png)
 
 
- Last Updated on 2026/07/02 10:31:19 (GMT+8) UTC
+ Last Updated on 2026/07/03 10:06:46 (GMT+8) UTC
 <!--END_SECTION:waka-->
