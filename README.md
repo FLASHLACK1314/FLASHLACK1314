@@ -19,10 +19,10 @@
 
 ```text
 💬 编程语言: 
-Other                    2 mins              █████████████████████████   100.00 % 
+本周没有记录到任何活动
 
 🔥 编辑器: 
-VS Code                  2 mins              █████████████████████████   100.00 % 
+本周没有记录到任何活动
 ```
 
 **时间线**
@@ -30,5 +30,5 @@ VS Code                  2 mins              ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/FLASHLACK1314/FLASHLACK1314/main/assets/bar_graph.png)
 
 
- Last Updated on 2026/07/03 10:06:46 (GMT+8) UTC
+ Last Updated on 2026/07/04 10:04:36 (GMT+8) UTC
 <!--END_SECTION:waka-->
