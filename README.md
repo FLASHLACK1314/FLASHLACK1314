@@ -19,14 +19,10 @@
 
 ```text
 💬 编程语言: 
-Java                     19 mins             ██████████████████░░░░░░░   71.07 % 
-TypeScript               5 mins              █████░░░░░░░░░░░░░░░░░░░░   20.93 % 
-YAML                     2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.29 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 % 
-JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
+Markdown                 0 secs              █████████████████████████   100.00 % 
 
 🔥 编辑器: 
-VS Code                  27 mins             █████████████████████████   100.00 % 
+VS Code                  0 secs              █████████████████████████   100.00 % 
 ```
 
 **时间线**
@@ -34,5 +30,5 @@ VS Code                  27 mins             ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/FLASHLACK1314/FLASHLACK1314/main/assets/bar_graph.png)
 
 
- Last Updated on 2026/07/22 09:51:45 (GMT+8) UTC
+ Last Updated on 2026/07/23 09:59:09 (GMT+8) UTC
 <!--END_SECTION:waka-->
