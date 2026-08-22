@@ -1,7 +1,7 @@
 # Hi there! I'm FLASHLACK 👋
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-575%20hrs%2034%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-575%20hrs%2049%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-63%20hrs%2011%20mins-blue?style=flat)
 
@@ -21,10 +21,11 @@
 
 ```text
 💬 编程语言: 
-Text                     6 mins              █████████████████████████   100.00 % 
+YAML                     15 mins             ██████████████████░░░░░░░   71.99 % 
+Text                     6 mins              ███████░░░░░░░░░░░░░░░░░░   28.01 % 
 
 🔥 编辑器: 
-VS Code                  6 mins              █████████████████████████   100.00 % 
+VS Code                  21 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -38,5 +39,5 @@ No AI Coding Activity Tracked This Week
 ![Lines of Code chart](https://raw.githubusercontent.com/FLASHLACK1314/FLASHLACK1314/main/assets/bar_graph.png)
 
 
- Last Updated on 2026/08/21 08:47:55 (GMT+8) UTC
+ Last Updated on 2026/08/22 08:44:14 (GMT+8) UTC
 <!--END_SECTION:waka-->
