@@ -21,11 +21,10 @@
 
 ```text
 💬 编程语言: 
-YAML                     15 mins             ██████████████████░░░░░░░   71.99 % 
-Text                     6 mins              ███████░░░░░░░░░░░░░░░░░░   28.01 % 
+YAML                     15 mins             █████████████████████████   100.00 % 
 
 🔥 编辑器: 
-VS Code                  21 mins             █████████████████████████   100.00 % 
+VS Code                  15 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -39,5 +38,5 @@ No AI Coding Activity Tracked This Week
 ![Lines of Code chart](https://raw.githubusercontent.com/FLASHLACK1314/FLASHLACK1314/main/assets/bar_graph.png)
 
 
- Last Updated on 2026/08/26 08:46:23 (GMT+8) UTC
+ Last Updated on 2026/08/27 13:57:43 (GMT+8) UTC
 <!--END_SECTION:waka-->
