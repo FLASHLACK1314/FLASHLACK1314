@@ -21,17 +21,17 @@
 
 ```text
 💬 编程语言: 
-Other                    21 mins             ███████████████████░░░░░░   74.24 % 
-Text                     7 mins              ██████░░░░░░░░░░░░░░░░░░░   25.76 % 
+Other                    21 mins             █████████████░░░░░░░░░░░░   52.70 % 
+Text                     19 mins             ████████████░░░░░░░░░░░░░   47.30 % 
 
 🔥 编辑器: 
-VS Code                  29 mins             █████████████████████████   100.00 % 
+VS Code                  41 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 21 mins (74.24%)
+⏱ AI Coding Time: 21 mins (52.7%)
 
 ✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
 
@@ -56,5 +56,5 @@ Mimo                     0 lines             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/FLASHLACK1314/FLASHLACK1314/main/assets/bar_graph.png)
 
 
- Last Updated on 2026/09/20 10:35:00 (GMT+8) UTC
+ Last Updated on 2026/09/21 10:32:31 (GMT+8) UTC
 <!--END_SECTION:waka-->
