@@ -21,35 +21,38 @@
 
 ```text
 💬 编程语言: 
-Other                    21 mins             ██████████░░░░░░░░░░░░░░░   38.53 % 
-Java                     20 mins             █████████░░░░░░░░░░░░░░░░   36.59 % 
-Text                     13 mins             ██████░░░░░░░░░░░░░░░░░░░   24.88 % 
+Python                   44 mins             ████████░░░░░░░░░░░░░░░░░   31.67 % 
+Markdown                 35 mins             ██████░░░░░░░░░░░░░░░░░░░   25.64 % 
+Other                    21 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.45 % 
+Java                     20 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.68 % 
+Text                     15 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.93 % 
 
 🔥 编辑器: 
-VS Code                  56 mins             █████████████████████████   100.00 % 
+VS Code                  2 hrs 19 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 39 mins (70.26%)
+⏱ AI Coding Time: 1 hr 3 mins (45.52%)
 
-✍️ 5 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 943 lines written by AI, 206 lines written by hand (82.07% AI-written)
 
-🔤 118,541 Input Tokens, 58,922 Output Tokens
+🔤 213,614 Input Tokens, 156,587 Output Tokens
 
-💵 $10.69 Estimated AI Cost This Week
+💵 $42.03 Estimated AI Cost This Week
 
-🧠 3 AI Sessions, 17 AI Prompts
+🧠 4 AI Sessions, 20 AI Prompts
 
-Mimo                     10 lines            █████████████████████████   100.00 % 
+Opencode-Cli             943 lines           █████████████████████████   98.95 % 
+Mimo                     10 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   01.05 % 
 Deepseek                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 139 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
-🚀 High AI Trust — 0.0% of changed lines were hand-edited
+🤖 AI-Driven — 82.07% of written lines came from AI
+📝 Concise Prompter — average 418 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
+🚀 High AI Trust — 18.06% of changed lines were hand-edited
 ```
 
 **时间线**
@@ -57,5 +60,5 @@ Deepseek                 0 lines             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/FLASHLACK1314/FLASHLACK1314/main/assets/bar_graph.png)
 
 
- Last Updated on 2026/09/23 10:35:10 (GMT+8) UTC
+ Last Updated on 2026/09/24 10:24:33 (GMT+8) UTC
 <!--END_SECTION:waka-->
