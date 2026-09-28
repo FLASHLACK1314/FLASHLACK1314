@@ -21,20 +21,20 @@
 
 ```text
 💬 编程语言: 
-Python                   44 mins             █████████░░░░░░░░░░░░░░░░   37.46 % 
-Markdown                 35 mins             ████████░░░░░░░░░░░░░░░░░   30.33 % 
-Java                     20 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.36 % 
-Text                     15 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.93 % 
-JavaScript               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.86 % 
+Python                   44 mins             ██████████░░░░░░░░░░░░░░░   41.66 % 
+Markdown                 35 mins             ████████░░░░░░░░░░░░░░░░░   33.72 % 
+Java                     20 mins             █████░░░░░░░░░░░░░░░░░░░░   19.30 % 
+Text                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.19 % 
+JavaScript               2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.07 % 
 
 🔥 编辑器: 
-VS Code                  1 hr 58 mins        █████████████████████████   100.00 % 
+VS Code                  1 hr 46 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 42 mins (35.56%)
+⏱ AI Coding Time: 42 mins (39.54%)
 
 ✍️ 943 lines written by AI, 206 lines written by hand (82.07% AI-written)
 
@@ -59,5 +59,5 @@ Mimo                     10 lines            ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/FLASHLACK1314/FLASHLACK1314/main/assets/bar_graph.png)
 
 
- Last Updated on 2026/09/27 10:44:36 (GMT+8) UTC
+ Last Updated on 2026/09/28 10:46:10 (GMT+8) UTC
 <!--END_SECTION:waka-->
