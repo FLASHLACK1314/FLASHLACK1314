@@ -21,37 +21,36 @@
 
 ```text
 💬 编程语言: 
-Python                   44 mins             ██████████░░░░░░░░░░░░░░░   41.66 % 
-Markdown                 35 mins             ████████░░░░░░░░░░░░░░░░░   33.72 % 
-Java                     20 mins             █████░░░░░░░░░░░░░░░░░░░░   19.30 % 
-Text                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.19 % 
-JavaScript               2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.07 % 
+Markdown                 1 hr 15 mins        ████████████░░░░░░░░░░░░░   48.31 % 
+Python                   44 mins             ███████░░░░░░░░░░░░░░░░░░   28.18 % 
+Text                     28 mins             █████░░░░░░░░░░░░░░░░░░░░   18.37 % 
+Other                    5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.66 % 
+JavaScript               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.40 % 
 
 🔥 编辑器: 
-VS Code                  1 hr 46 mins        █████████████████████████   100.00 % 
+VS Code                  2 hrs 37 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 42 mins (39.54%)
+⏱ AI Coding Time: 30 mins (19.29%)
 
-✍️ 943 lines written by AI, 206 lines written by hand (82.07% AI-written)
+✍️ 938 lines written by AI, 206 lines written by hand (81.99% AI-written)
 
-🔤 138,250 Input Tokens, 105,519 Output Tokens
+🔤 156,723 Input Tokens, 116,184 Output Tokens
 
-💵 $33.70 Estimated AI Cost This Week
+💵 $42.23 Estimated AI Cost This Week
 
-🧠 2 AI Sessions, 9 AI Prompts
+🧠 4 AI Sessions, 11 AI Prompts
 
-Opencode-Cli             943 lines           █████████████████████████   98.95 % 
-Mimo                     10 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   01.05 % 
+Opencode-Cli             943 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 82.07% of written lines came from AI
-📄 Detailed Prompter — average 902 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 18.06% of changed lines were hand-edited
+🤖 AI-Driven — 81.99% of written lines came from AI
+📚 Verbose Prompter — average 1,967 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🚀 High AI Trust — 18.57% of changed lines were hand-edited
 ```
 
 **时间线**
@@ -59,5 +58,5 @@ Mimo                     10 lines            ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/FLASHLACK1314/FLASHLACK1314/main/assets/bar_graph.png)
 
 
- Last Updated on 2026/09/28 10:46:10 (GMT+8) UTC
+ Last Updated on 2026/09/29 11:27:54 (GMT+8) UTC
 <!--END_SECTION:waka-->
