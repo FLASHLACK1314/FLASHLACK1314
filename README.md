@@ -1,9 +1,9 @@
 # Hi there! I'm FLASHLACK 👋
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-579%20hrs%2024%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-579%20hrs%2045%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-63%20hrs%2059%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-65%20hrs%2013%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/%E4%BB%8E%E3%80%8CHello%20World%E3%80%8D%E8%B5%B7%E6%88%91%E5%B7%B2%E7%BB%8F%E5%86%99%E4%BA%86-447.80%20thousand%20%E8%A1%8C%E4%BB%A3%E7%A0%81-blue?style=flat)
 
@@ -21,36 +21,37 @@
 
 ```text
 💬 编程语言: 
-Markdown                 1 hr 15 mins        ████████████░░░░░░░░░░░░░   48.31 % 
-Python                   44 mins             ███████░░░░░░░░░░░░░░░░░░   28.18 % 
-Text                     28 mins             █████░░░░░░░░░░░░░░░░░░░░   18.37 % 
-Other                    5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.66 % 
-JavaScript               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.40 % 
+Other                    58 mins             ██████████░░░░░░░░░░░░░░░   39.73 % 
+Markdown                 57 mins             ██████████░░░░░░░░░░░░░░░   38.78 % 
+Text                     27 mins             █████░░░░░░░░░░░░░░░░░░░░   18.84 % 
+Python                   3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.60 % 
+Rust                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 
 🔥 编辑器: 
-VS Code                  2 hrs 37 mins       █████████████████████████   100.00 % 
+VS Code                  2 hrs 27 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 30 mins (19.29%)
+⏱ AI Coding Time: 1 hr 20 mins (54.36%)
 
-✍️ 938 lines written by AI, 206 lines written by hand (81.99% AI-written)
+✍️ 666 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 156,723 Input Tokens, 116,184 Output Tokens
+🔤 1,303,089 Input Tokens, 113,461 Output Tokens
 
-💵 $42.23 Estimated AI Cost This Week
+💵 $38.36 Estimated AI Cost This Week
 
-🧠 4 AI Sessions, 11 AI Prompts
+🧠 9 AI Sessions, 27 AI Prompts
 
-Opencode-Cli             943 lines           █████████████████████████   100.00 % 
+Glm                      666 lines           █████████████████████████   100.00 % 
+Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 81.99% of written lines came from AI
-📚 Verbose Prompter — average 1,967 characters per prompt
+🤖 AI-Driven — 100.0% of written lines came from AI
+📄 Detailed Prompter — average 602 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 18.57% of changed lines were hand-edited
+🚀 High AI Trust — 0.75% of changed lines were hand-edited
 ```
 
 **时间线**
@@ -58,5 +59,5 @@ Opencode-Cli             943 lines           ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/FLASHLACK1314/FLASHLACK1314/main/assets/bar_graph.png)
 
 
- Last Updated on 2026/09/30 11:11:20 (GMT+8) UTC
+ Last Updated on 2026/10/01 11:18:09 (GMT+8) UTC
 <!--END_SECTION:waka-->
