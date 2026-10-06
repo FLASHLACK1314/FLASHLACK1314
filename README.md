@@ -21,37 +21,37 @@
 
 ```text
 💬 编程语言: 
-Other                    58 mins             ██████████░░░░░░░░░░░░░░░   39.73 % 
-Markdown                 57 mins             ██████████░░░░░░░░░░░░░░░   38.78 % 
-Text                     27 mins             █████░░░░░░░░░░░░░░░░░░░░   18.84 % 
-Python                   3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.60 % 
-Rust                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
+Other                    52 mins             ██████████████████░░░░░░░   71.33 % 
+Markdown                 17 mins             ██████░░░░░░░░░░░░░░░░░░░   23.12 % 
+Python                   3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.18 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
+Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🔥 编辑器: 
-VS Code                  2 hrs 27 mins       █████████████████████████   100.00 % 
+VS Code                  1 hr 14 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 20 mins (54.36%)
+⏱ AI Coding Time: 1 hr 14 mins (100.0%)
 
 ✍️ 666 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 1,303,089 Input Tokens, 113,461 Output Tokens
+🔤 1,242,309 Input Tokens, 99,928 Output Tokens
 
-💵 $38.36 Estimated AI Cost This Week
+💵 $30.49 Estimated AI Cost This Week
 
-🧠 9 AI Sessions, 27 AI Prompts
+🧠 6 AI Sessions, 19 AI Prompts
 
 Glm                      666 lines           █████████████████████████   100.00 % 
 Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 602 characters per prompt
+📝 Concise Prompter — average 33 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 0.75% of changed lines were hand-edited
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 **时间线**
@@ -59,5 +59,5 @@ Opencode-Cli             0 lines             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/FLASHLACK1314/FLASHLACK1314/main/assets/bar_graph.png)
 
 
- Last Updated on 2026/10/05 11:13:50 (GMT+8) UTC
+ Last Updated on 2026/10/06 12:01:35 (GMT+8) UTC
 <!--END_SECTION:waka-->
