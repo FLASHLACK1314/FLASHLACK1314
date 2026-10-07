@@ -28,7 +28,8 @@ Text                     0 secs              ░░░░░░░░░░░�
 Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🔥 编辑器: 
-VS Code                  1 hr 14 mins        █████████████████████████   100.00 % 
+Opencode Cli             1 hr 4 mins         ██████████████████████░░░   86.50 % 
+VS Code                  10 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.50 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -44,7 +45,7 @@ VS Code                  1 hr 14 mins        ███████████�
 
 🧠 6 AI Sessions, 19 AI Prompts
 
-Glm                      666 lines           █████████████████████████   100.00 % 
+GLM                      666 lines           █████████████████████████   100.00 % 
 Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
@@ -59,5 +60,5 @@ Opencode-Cli             0 lines             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/FLASHLACK1314/FLASHLACK1314/main/assets/bar_graph.png)
 
 
- Last Updated on 2026/10/06 12:01:35 (GMT+8) UTC
+ Last Updated on 2026/10/07 11:29:27 (GMT+8) UTC
 <!--END_SECTION:waka-->
