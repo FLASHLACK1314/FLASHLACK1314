@@ -21,35 +21,37 @@
 
 ```text
 💬 编程语言: 
-JSON                     25 mins             █████████████████░░░░░░░░   67.32 % 
-Other                    8 mins              ██████░░░░░░░░░░░░░░░░░░░   23.98 % 
-Markdown                 2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.95 % 
-Bash                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.75 % 
+JSON                     27 mins             ███████████████░░░░░░░░░░   58.65 % 
+Other                    8 mins              █████░░░░░░░░░░░░░░░░░░░░   19.17 % 
+Bash                     7 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.57 % 
+Markdown                 2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.77 % 
+Python                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.79 % 
 
 🔥 编辑器: 
-Opencode Cli             25 mins             █████████████████░░░░░░░░   66.80 % 
-VS Code                  12 mins             ████████░░░░░░░░░░░░░░░░░   33.20 % 
+Opencode Cli             25 mins             █████████████░░░░░░░░░░░░   53.38 % 
+VS Code                  21 mins             ████████████░░░░░░░░░░░░░   46.62 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 32 mins (87.91%)
+⏱ AI Coding Time: 32 mins (70.24%)
 
 ✍️ 0 lines written by AI, 8 lines written by hand (0.0% AI-written)
 
-🔤 443,331 Input Tokens, 44,349 Output Tokens
+🔤 449,071 Input Tokens, 50,173 Output Tokens
 
-💵 $3.94 Estimated AI Cost This Week
+💵 $9.45 Estimated AI Cost This Week
 
-🧠 1 AI Sessions, 9 AI Prompts
+🧠 2 AI Sessions, 9 AI Prompts
 
+Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Grok                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
 📚 Verbose Prompter — average 13,190 characters per prompt
-🔁 Iterative Prompter — average 9 prompts per session
+🔁 Iterative Prompter — average 4 prompts per session
 🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
@@ -58,5 +60,5 @@ Grok                     0 lines             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/FLASHLACK1314/FLASHLACK1314/main/assets/bar_graph.png)
 
 
- Last Updated on 2026/10/14 10:52:14 (GMT+8) UTC
+ Last Updated on 2026/10/15 10:31:06 (GMT+8) UTC
 <!--END_SECTION:waka-->
