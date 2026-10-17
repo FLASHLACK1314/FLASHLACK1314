@@ -21,21 +21,21 @@
 
 ```text
 💬 编程语言: 
-JSON                     27 mins             ███████████████░░░░░░░░░░   58.65 % 
-Other                    8 mins              █████░░░░░░░░░░░░░░░░░░░░   19.17 % 
-Bash                     7 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.57 % 
-Markdown                 2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.77 % 
-Python                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.79 % 
+JSON                     27 mins             ███████████████░░░░░░░░░░   61.77 % 
+Other                    8 mins              █████░░░░░░░░░░░░░░░░░░░░   20.19 % 
+Bash                     7 mins              ████░░░░░░░░░░░░░░░░░░░░░   17.45 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 🔥 编辑器: 
-Opencode Cli             25 mins             █████████████░░░░░░░░░░░░   53.38 % 
-VS Code                  21 mins             ████████████░░░░░░░░░░░░░   46.62 % 
+Opencode Cli             25 mins             ██████████████░░░░░░░░░░░   56.22 % 
+VS Code                  19 mins             ███████████░░░░░░░░░░░░░░   43.78 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 32 mins (70.24%)
+⏱ AI Coding Time: 32 mins (73.98%)
 
 ✍️ 0 lines written by AI, 8 lines written by hand (0.0% AI-written)
 
@@ -59,5 +59,5 @@ Grok                     0 lines             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/FLASHLACK1314/FLASHLACK1314/main/assets/bar_graph.png)
 
 
- Last Updated on 2026/10/16 10:25:54 (GMT+8) UTC
+ Last Updated on 2026/10/17 10:18:32 (GMT+8) UTC
 <!--END_SECTION:waka-->
