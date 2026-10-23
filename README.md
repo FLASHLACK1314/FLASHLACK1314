@@ -21,16 +21,38 @@
 
 ```text
 💬 编程语言: 
-本周没有记录到任何活动
+Other                    1 hr 11 mins        ███████████████░░░░░░░░░░   58.04 % 
+Markdown                 47 mins             ██████████░░░░░░░░░░░░░░░   38.07 % 
+Text                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.37 % 
+JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.52 % 
 
 🔥 编辑器: 
-本周没有记录到任何活动
+VS Code                  1 hr 25 mins        █████████████████░░░░░░░░   69.64 % 
+OpenCode                 24 mins             █████░░░░░░░░░░░░░░░░░░░░   19.49 % 
+Opencode Cli             13 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.87 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 1 hr 29 mins (72.25%)
+
+✍️ 125 lines written by AI, 0 lines written by hand (100.0% AI-written)
+
+🔤 879,748 Input Tokens, 60,391 Output Tokens
+
+💵 $4.28 Estimated AI Cost This Week
+
+🧠 3 AI Sessions, 43 AI Prompts
+
+Gemini                   125 lines           █████████████████████████   100.00 % 
+GLM                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 100.0% of written lines came from AI
+📚 Verbose Prompter — average 5,052 characters per prompt
+🔁 Iterative Prompter — average 14 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 **时间线**
@@ -38,5 +60,5 @@ No AI Coding Activity Tracked This Week
 ![Lines of Code chart](https://raw.githubusercontent.com/FLASHLACK1314/FLASHLACK1314/main/assets/bar_graph.png)
 
 
- Last Updated on 2026/10/22 10:37:51 (GMT+8) UTC
+ Last Updated on 2026/10/23 10:42:18 (GMT+8) UTC
 <!--END_SECTION:waka-->
