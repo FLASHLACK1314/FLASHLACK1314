@@ -21,39 +21,39 @@
 
 ```text
 💬 编程语言: 
-Other                    1 hr 11 mins        ███████████░░░░░░░░░░░░░░   45.12 % 
-Markdown                 47 mins             ███████░░░░░░░░░░░░░░░░░░   29.59 % 
-Python                   33 mins             █████░░░░░░░░░░░░░░░░░░░░   20.81 % 
-Text                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.14 % 
-JSON                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.34 % 
+Python                   2 hrs 26 mins       ███████████████░░░░░░░░░░   59.20 % 
+Markdown                 35 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.48 % 
+JSON                     25 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.36 % 
+Text                     12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.98 % 
+PowerShell               11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.73 % 
 
 🔥 编辑器: 
-VS Code                  1 hr 49 mins        █████████████████░░░░░░░░   69.02 % 
-OpenCode                 26 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.47 % 
-Opencode Cli             23 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.52 % 
+VS Code                  2 hrs 34 mins       ████████████████░░░░░░░░░   62.78 % 
+OpenCode                 1 hr 18 mins        ████████░░░░░░░░░░░░░░░░░   31.88 % 
+Opencode Cli             13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.34 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 2 mins (77.25%)
+⏱ AI Coding Time: 3 hrs 50 mins (93.42%)
 
-✍️ 1,082 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 4,534 lines written by AI, 1 lines written by hand (99.98% AI-written)
 
-🔤 1,683,978 Input Tokens, 159,398 Output Tokens
+🔤 1,850,434 Input Tokens, 288,944 Output Tokens
 
-💵 $27.20 Estimated AI Cost This Week
+💵 $97.51 Estimated AI Cost This Week
 
-🧠 4 AI Sessions, 50 AI Prompts
+🧠 6 AI Sessions, 85 AI Prompts
 
-GLM                      959 lines           ██████████████████████░░░   88.47 % 
-Gemini                   125 lines           ███░░░░░░░░░░░░░░░░░░░░░░   11.53 % 
+GLM                      4,333 lines         ████████████████████████░   95.52 % 
+Gemini                   203 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   04.48 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 4,353 characters per prompt
-🔁 Iterative Prompter — average 12 prompts per session
-🚀 High AI Trust — 0.0% of changed lines were hand-edited
+🤖 AI-Driven — 99.98% of written lines came from AI
+📄 Detailed Prompter — average 1,156 characters per prompt
+🔁 Iterative Prompter — average 14 prompts per session
+🚀 High AI Trust — 0.02% of changed lines were hand-edited
 ```
 
 **时间线**
@@ -61,5 +61,5 @@ Gemini                   125 lines           ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/FLASHLACK1314/FLASHLACK1314/main/assets/bar_graph.png)
 
 
- Last Updated on 2026/10/29 11:39:54 (GMT+8) UTC
+ Last Updated on 2026/10/30 11:43:10 (GMT+8) UTC
 <!--END_SECTION:waka-->
